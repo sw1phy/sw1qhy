@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcults3d.com%2Fen%2F3d-model%2Fart%2Fbocchi-in-a-box-bocchi-the-rock&psig=AOvVaw3dhRDO5cnz0MTKWdzD1ERH&ust=1705785048195000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiS-9Cu6oMDFQAAAAAdAAAAABAD" alt="Banner"></a>
+  <a href=""><img src="https://files.cults3d.com/uploaders/29225291/illustration-file/a5d4d067-c6e4-43dd-b16b-250aea54900e/BocchiBox.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="[https://www.edisonlee55.com](https://www.icegif.com/wp-content/uploads/2023/03/icegif-1087.gif)">Midgard Amador</a>!</h1>
